@@ -1,9 +1,24 @@
 {
   "name": "vite-plugin-svelte-kebab-props",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
+  "description": "Vite 2.x plugin to support kebab case props within Svelte components.",
+  "keywords": [
+    "svelte",
+    "vite",
+    "kebab",
+    "case",
+    "kebab-case",
+    "dash",
+    "hyphen"
+  ],
   "repository": "git@github.com:roonie007/vite-plugin-svelte-kebab-props.git",
   "author": "mouadh.hsoumi <mouadh.hsoumi@hstech.tn>",
+  "homepage": "https://github.com/roonie007/vite-plugin-svelte-kebab-props/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/roonie007/vite-plugin-svelte-kebab-props/issues",
+    "email": "mouadh.hsoumi@hstech.tn"
+  },
   "license": "MIT",
   "scripts": {
     "test": "jest --collect-coverage"
