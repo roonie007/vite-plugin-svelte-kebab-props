@@ -1,0 +1,5 @@
+__tests__
+.npmignore
+.gitignore
+README.md
+.prettierrc
