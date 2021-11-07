@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-svelte-kebab-props",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "description": "Vite 2.x plugin to support kebab case props within Svelte components.",
   "keywords": [

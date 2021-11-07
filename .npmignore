@@ -1,5 +1,6 @@
 __tests__
 .npmignore
 .gitignore
-README.md
 .prettierrc
+.github
+CODE_OF_CONDUCT.md
